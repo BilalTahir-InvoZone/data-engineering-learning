@@ -1,0 +1,6 @@
+id,name,department,salary,age,annual_salary,name_upper
+1,Bilal,IT,150000,34,1800000,BILAL
+2,Ali,IT,120000,30,1440000,ALI
+3,Ahmed,HR,100000,28,1200000,AHMED
+4,Usman,Finance,110000,32,1320000,USMAN
+5,Hamza,IT,130000,29,1560000,HAMZA
