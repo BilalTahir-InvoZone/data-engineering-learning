@@ -1,0 +1,6 @@
+deal_id,company_id,contact_id,deal_name,amount,status,close_date
+8,26,170,Atlas LLC Distribution Agreement,53598.44,open,2021-02-09
+60,13,40,Horizon Labs Upgrade,26228.79,open,2021-05-09
+161,13,40,Duff Collective Renewal,86428.39,open,2022-12-24
+236,17,45,Titan LLC - Q1 Expansion,32177.36,open,2023-05-08
+256,92,168,Soylent Industries Consulting,111327.96,open,2021-09-20
